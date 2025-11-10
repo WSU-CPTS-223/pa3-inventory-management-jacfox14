@@ -14,4 +14,4 @@ execute: mainexe
 	./mainexe
 
 clean:
-	rm -f mainexe
+	rm -f mainexe testexe
